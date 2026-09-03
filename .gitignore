@@ -1,0 +1,51 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build output
+**/x64/
+**/x86/
+**/Debug/
+**/Release/
+
+# Compiled binaries
+*.exe
+*.dll
+*.sys
+*.obj
+*.pdb
+*.ilk
+*.idb
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Logs
+*.log
+logs/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Virtual machines
+*.vdi
+*.vmdk
+*.vhd
+*.vhdx
+*.ova
+*.ovf
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Secrets
+.env
+*.pem
+*.key
