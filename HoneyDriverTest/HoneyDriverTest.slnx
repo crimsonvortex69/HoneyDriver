@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="HoneyDriverTest.vcxproj" />
+  <Project Path="HoneyDriverTest.vcxproj" Id="ed16ea0c-c46e-4741-b7dc-0c92295d8043" />
 </Solution>
